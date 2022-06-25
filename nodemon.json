@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "mongo-test",
+        "MONGO_PASSWORD": "root",
+        "MONGO_DB": "tutorial-todo"
+    }
+}
